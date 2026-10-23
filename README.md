@@ -50,4 +50,4 @@ The journal closes with a **Reflections** section on challenges, how my understa
 
 All scenarios are simulated lab exercises from the Google Cybersecurity Professional Certificate; no real organizations or data were involved.
 
-**Author:** [Your Name] · [LinkedIn](https://linkedin.com/in/your-profile)
+
